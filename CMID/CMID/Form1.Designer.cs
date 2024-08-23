@@ -223,7 +223,7 @@ namespace CMID
             // 
             // pictureEdit2
             // 
-            this.pictureEdit2.EditValue = global::CMID.Properties.Resources.CMIDERP启动图标1;
+//            this.pictureEdit2.EditValue = global::CMID.Properties.Resources.CMIDERP启动图标1;
             this.pictureEdit2.Location = new System.Drawing.Point(286, 12);
             this.pictureEdit2.Name = "pictureEdit2";
             this.pictureEdit2.Properties.Appearance.BackColor = System.Drawing.Color.Transparent;
